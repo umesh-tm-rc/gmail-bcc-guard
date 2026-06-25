@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='lfcnkcpodablaahakfacgplkjefhdlaa'>
-    <updatecheck codebase='https://umesh-tm-rc.github.io/gmail-bcc-guard/gmail-bcc-guard2.crx' version='8.16.0' />
+    <updatecheck codebase='https://umesh-tm-rc.github.io/gmail-bcc-guard/gmail-bcc-guard2.crx' version='8.17.0' />
   </app>
 </gupdate>
